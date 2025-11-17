@@ -1,3 +1,5 @@
+//xmodmap -e "keycode 82 = equal"
+
 import dotenv from 'dotenv'
 import connectDB from './db/index.js';
 
